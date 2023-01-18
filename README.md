@@ -1,13 +1,13 @@
 # Windows_eventlogs_parser
 This repository contains Python codes for parsing the Windows event logs to detect connection and disconnection of Smartphones.
 
-# Screenshots of the Python parser :
+## Screenshots of the Python parser :
 
 <img width="955" alt="F5CODE" src="https://user-images.githubusercontent.com/72309016/213247857-c9e8891d-8d8d-4f69-9f75-361abf4152c2.png">
 
 <img width="960" alt="F6CODE" src="https://user-images.githubusercontent.com/72309016/213248029-20c3db5f-5ce7-45bc-9d04-dd0f0389f4cf.png">
 
-# OUTPUTS:
+## OUTPUTS:
 
 <img width="465" alt="F3" src="https://user-images.githubusercontent.com/72309016/213248393-f5b04dc8-ac3b-4070-97bd-a1a311a86f53.png">
 
@@ -18,5 +18,5 @@ This repository contains Python codes for parsing the Windows event logs to dete
 <img width="413" alt="F2" src="https://user-images.githubusercontent.com/72309016/213248556-98c5f2a0-d6e5-4400-b772-235fdff2a9a1.png">
 
 
-#Author:
+## Author 
 Dishari Saha
