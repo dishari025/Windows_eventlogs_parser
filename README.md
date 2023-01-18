@@ -16,3 +16,7 @@ OUTPUTS:
 <img width="486" alt="F1" src="https://user-images.githubusercontent.com/72309016/213248512-9bf00a6a-72be-4b4b-8ab5-119e56be62d4.png">
 
 <img width="413" alt="F2" src="https://user-images.githubusercontent.com/72309016/213248556-98c5f2a0-d6e5-4400-b772-235fdff2a9a1.png">
+
+
+Author:
+Dishari Saha
