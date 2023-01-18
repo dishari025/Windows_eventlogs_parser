@@ -7,7 +7,7 @@ This repository contains Python codes for parsing the Windows event logs to dete
 
 <img width="960" alt="F6CODE" src="https://user-images.githubusercontent.com/72309016/213248029-20c3db5f-5ce7-45bc-9d04-dd0f0389f4cf.png">
 
-## OUTPUTS:
+## Outputs:
 
 <img width="465" alt="F3" src="https://user-images.githubusercontent.com/72309016/213248393-f5b04dc8-ac3b-4070-97bd-a1a311a86f53.png">
 
